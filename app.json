@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lista-compras",
-    "slug": "lista-compras",
+    "name": "EasyShop",
+    "slug": "EasyShop",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/img/icon.png",

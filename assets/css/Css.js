@@ -38,6 +38,37 @@ const css = StyleSheet.create({
 		flexDirection: "row",
 		marginLeft: "auto",
 		marginRight: 5
+	},
+
+	shopItemEntryContainer: {
+		flexDirection: "row",
+		width: "100%",
+		backgroundColor: "#ddd",
+		paddingTop: 15,
+		paddingBottom: 15
+	},
+
+	shopItemEntryInput: {
+		borderStyle: "solid",
+		borderWidth: 1,
+		padding: 5,
+		paddingLeft: 10,
+		fontSize: 20,
+		marginLeft: 20,
+		borderColor: "#8395a7",
+		color: "#576574",
+		borderRadius: 5,
+		backgroundColor: "#fff",
+		width: "65%"
+	},
+	shopItemEntrySubmit: {
+		justifyContent: "center",
+		alignItems: "center",
+		backgroundColor: "#7bc043",
+		padding: 15,
+		paddingLeft: 35,
+		paddingRight: 35,
+		borderRadius: 2
 	}
 });
 
